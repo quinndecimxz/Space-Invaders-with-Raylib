@@ -22,6 +22,7 @@ This project follows an **object-oriented programming (OOP)** approach to keep t
 - Score tracking
 - Game over & win conditions
 - Simple retro visuals powered by Raylib
+- Sound effects for lasers , collisions and bgm
 
 ---
 
