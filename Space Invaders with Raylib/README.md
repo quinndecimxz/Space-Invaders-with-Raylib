@@ -1,6 +1,5 @@
-# Raylib-CPP-Starter-Template-for-VSCODE-V2
+# Raylib-CPP-Starter-Template-for-VSCODE
 Raylib C++ Starter Template for Visual Studio Code on Windows.
-This demo project contains a bouncing ball raylib example program.
 It works with raylib version 5.0. Tested on both Windows 10 and Windows 11.
 
 # How to use this template
@@ -8,22 +7,35 @@ It works with raylib version 5.0. Tested on both Windows 10 and Windows 11.
 2. From the Explorer Window of VS Code navigate to the src folder and double click on the main.cpp file.
 3. Press F5 on the keyboard to compile and run the program.
 
-# What's changed
-The template now uses folders for better organizion of the files. So, all the source code now lives in the src folder.
 
-# Video Tutorial
+# 👾 Space Invaders (C++ with Raylib, OOP)
 
-<p align="center">
-  <img src="preview.jpg" alt="" width="800">
-</p>
+A classic **Space Invaders clone** built in **C++** using the [Raylib](https://www.raylib.com/) graphics library.  
+This project follows an **object-oriented programming (OOP)** approach to keep the code clean, modular, and extendable.
 
-<p align="center">
-🎥 <a href="https://www.youtube.com/watch?v=PaAcVk5jUd8">Video Tutorial on YouTube</a>
-</p>
+---
 
-<br>
-<br>
-<p align="center">
-| 📺 <a href="https://www.youtube.com/channel/UC3ivOTE5EgpmF2DHLBmWIWg">My YouTube Channel</a>
-| 🌍 <a href="http://www.programmingwithnick.com">My Website</a> | <br>
-</p>
+## 🎮 Features
+- Player spaceship movement & shooting
+- Waves of invading aliens marching down
+- Collision detection (bullets vs. invaders)
+- Score tracking
+- Game over & win conditions
+- Simple retro visuals powered by Raylib
+
+---
+
+## 🛠️ Tech Stack
+- **Language:** C++  
+- **Graphics Library:** [Raylib](https://www.raylib.com/)  
+- **Paradigm:** Object-Oriented Programming (OOP)
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/quinndecim.xz/space-invaders-raylib.git
+cd space-invaders-raylib
+
